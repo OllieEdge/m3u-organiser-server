@@ -1,0 +1,17 @@
+{
+  "name": "iptv-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --ignore 'assets/*' index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.9",
+    "just-another-http-api": "^1.0.5",
+    "xml2js": "^0.6.2"
+  }
+}

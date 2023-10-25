@@ -1,0 +1,4 @@
+*.m3u
+assets/*.xml
+selectedGroupsAndChannels.json
+node_modules
